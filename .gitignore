@@ -1,0 +1,4 @@
+Pipfile.lock
+/catboost_info
+/__pycache__
+/file_py/__pycache__
